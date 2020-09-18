@@ -21,7 +21,7 @@ class WallServiceTest {
             "asd",
             Likes(1, true, true, true),
             Views(2), "qw", 3, true, true, true, true, true, true, true))
-        val post = Post(12, 12, 13, 14, 15, "1asd", 16, 17, true,
+        val post = Post(1, 12, 13, 14, 15, "1asd", 16, 17, true,
             Comments(11, true, true, true, true),
             "1asd",
             Likes(11, true, true, true),
